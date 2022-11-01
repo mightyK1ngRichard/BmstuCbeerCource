@@ -5,6 +5,7 @@
 It's the comfortable repository for storing all laboratory works in the one place.
 
 ## Links:
+- [Matrix](https://github.com/mightyK1ngRichard/Matrix)
 - [Polynomial](https://github.com/DimaPermyakov/Cbeer/tree/main/Polynomial-main)
 - [List](https://github.com/DimaPermyakov/Cbeer/tree/main/list-main)
 - [String](https://github.com/DimaPermyakov/Cbeer/tree/main/string-main)
