@@ -1,5 +1,5 @@
 # Cbeer and others C++ project
-<img src="https://img.shields.io/github/license/DimaPermyakov/Cbeer?color=brightgreen" alt="MIT License"> <img src="https://img.shields.io/badge/language-С++-green.svg" alt="С++ Language">
+<img src="https://img.shields.io/github/license/DimaPermyakov/Cbeer?color=brightgreen" alt="MIT License"> <img src="https://img.shields.io/badge/language-С++-purple.svg" alt="С++ Language">
 
 # All labs from the first course at BMSTU of C++.
 It's the comfortable repository for storing all laboratory works in the one place.
