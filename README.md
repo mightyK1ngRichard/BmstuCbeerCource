@@ -12,3 +12,6 @@ It's the comfortable repository for storing all laboratory works in the one plac
 - [Vector](https://github.com/DimaPermyakov/Cbeer/tree/main/vector-main)
 - [BasaData](https://github.com/DimaPermyakov/Cbeer/tree/main/BasaData-main)
 - [Cross-zero](https://github.com/DimaPermyakov/Cbeer/tree/main/Cross-zero-main)
+
+# #TODO:
+- [ ] Modify the descriptions of the projects
