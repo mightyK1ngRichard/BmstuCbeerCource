@@ -14,4 +14,5 @@ It's the comfortable repository for storing all laboratory works in the one plac
 - [Cross-zero](https://github.com/DimaPermyakov/Cbeer/tree/main/Cross-zero-main)
 
 # #TODO:
-- [ ] Modify the descriptions of the projects
+- [ ] Modify the descriptions of the projects.
+- [ ] Find other Cbeer's labs.
