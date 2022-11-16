@@ -1,8 +1,8 @@
-# vector
-Cbeer
+# Vector
+<img src="https://img.shields.io/github/license/DimaPermyakov/Cbeer?color=brightgreen" alt="MIT License"> <img src="https://img.shields.io/badge/language-С++-purple.svg" alt="С++ Language">
 
-Что может мой вектор? Да всё, что может обычный вектор stl.
-- итераторы
+## Main methods:
+- iterators
 - at
 - front
 - begin
