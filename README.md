@@ -14,5 +14,6 @@ It's the comfortable repository for storing all laboratory works in the one plac
 - [Cross-zero](https://github.com/DimaPermyakov/Cbeer/tree/main/Cross-zero-main)
 
 # #TODO:
+- [ ] Turn off the iostream lib and replace it with std:: where it necessary
 - [ ] Modify the descriptions of the projects.
 - [ ] Find other Cbeer's labs.
